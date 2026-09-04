@@ -4,7 +4,7 @@
 
 Interactive Neuronal Synapse Simulator
 
-«An educational simulation exploring synaptic transmission, neurotransmitter release, receptor interactions, and neuronal communication.»
+«An educational simulation exploring chemical synaptic transmission, neurotransmitter release, receptor interactions, and neuronal communication.»
 
 🧠 Neuroscience · ⚡ Synaptic Transmission · 🧪 Neurotransmitters
 
@@ -13,9 +13,9 @@ Interactive Neuronal Synapse Simulator
 ✦ Features
 
 ⚡ Synaptic Transmission
-Visualize how signals are transmitted across a chemical synapse.
+Visualize signal transmission across a chemical synapse.
 
-🧪 Neurotransmitter Activity
+🧪 Neurotransmitter Release
 Explore neurotransmitter release and interaction with postsynaptic receptors.
 
 🔬 Interactive Visualization
@@ -40,9 +40,8 @@ Optimized for desktop, tablet, and mobile devices.
 
 ⚙️ Technology
 
-React · TypeScript · Vite · HTML · CSS
+React · TypeScript · Vite
 
-Package Manager: pnpm
 Source: GitHub
 Hosting: Vercel
 
