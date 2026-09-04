@@ -1,61 +1,53 @@
 <p align="center">
   <img src="assets/Banner.png" alt="Synaptic Visualizer Banner" width="100%">
-</p>
+</p>🧠 Synaptic Visualizer
 
-# 🧠 Synaptic Visualizer
+Interactive Neuronal Synapse Simulator
 
-**Interactive Neuronal Synapse Simulator**
+«An educational simulation exploring synaptic transmission, neurotransmitter release, receptor interactions, and neuronal communication.»
 
-An interactive educational simulator for visualizing neuronal communication, synaptic transmission, and neurotransmitter activity.
-
----
-
-## ✨ Features
-
-* **Synaptic Transmission:** Visualize signal transmission between neurons.
-* **Neurotransmitters:** Explore neurotransmitter release and receptor interaction.
-* **Interactive Visualization:** Explore the synapse through a dynamic interface.
-* **Educational:** Designed around core NCERT Biology concepts.
-* **Responsive:** Supports desktop, tablet, and mobile devices.
+🧠 Neuroscience · ⚡ Synaptic Transmission · 🧪 Neurotransmitters
 
 ---
 
-## 🧠 Learning Objectives
+✦ Features
 
-* Understand synaptic structure and function.
-* Visualize neuronal signal transmission.
-* Understand neurotransmitter–receptor interactions.
-* Explore the role of the synaptic cleft in neural communication.
+⚡ Synaptic Transmission
+Visualize how signals are transmitted across a chemical synapse.
 
----
+🧪 Neurotransmitter Activity
+Explore neurotransmitter release and interaction with postsynaptic receptors.
 
-## 🚀 Build & Hosting
+🔬 Interactive Visualization
+Investigate synaptic structure and neuronal communication through a dynamic interface.
 
-* **Repository:** GitHub
-* **Hosting:** Vercel
-* **Frontend:** React + TypeScript
-* **Build Tool:** Vite
-* **Package Manager:** pnpm
+📚 NCERT Biology
+Designed around core concepts of neuronal communication and synaptic transmission.
 
----
-
-## 🛠️ Credits
-
-* **Replit** — Initial development and scaffolding.
-* **OpenAI** — Scientific validation and debugging.
-* **Claude Sonnet 5.0** — Architecture and implementation.
-* **Vercel** — Hosting and deployment.
+📱 Responsive Design
+Optimized for desktop, tablet, and mobile devices.
 
 ---
 
-## 👤 Author
+🌱 Learning Objectives
 
-**Draven Ashcroft**
-
-*M.Sc. Ag. Entomology · ASRB NET · DIPS Chain of Institutions*
+- Understand synaptic structure and function.
+- Visualize neuronal signal transmission.
+- Explore neurotransmitter–receptor interactions.
+- Understand the role of the synaptic cleft in neural communication.
 
 ---
 
-## 📜 License
+⚙️ Technology
 
-GPL-3.0
+React · TypeScript · Vite · HTML · CSS
+
+Package Manager: pnpm
+Source: GitHub
+Hosting: Vercel
+
+---
+
+📜 License
+
+GNU General Public License v3.0 (GPL-3.0)
