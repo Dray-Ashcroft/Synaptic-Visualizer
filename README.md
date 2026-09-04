@@ -4,7 +4,7 @@
 
 Interactive Chemical Synapse Simulator
 
-«An educational simulation visualizing chemical synaptic transmission, from action potential arrival and neurotransmitter release to postsynaptic receptor activation.»
+«An educational simulation exploring chemical synaptic transmission, neurotransmitter release, and receptor interactions.»
 
 🧠 Neuroscience · ⚡ Synaptic Transmission · 🧪 Neurotransmitters
 
@@ -15,20 +15,17 @@ Interactive Chemical Synapse Simulator
 ⚡ Synaptic Transmission
 Visualize signal transmission across a chemical synapse.
 
-🧪 Neurotransmitter Release
-Observe neurotransmitter release into the synaptic cleft following presynaptic activation.
+🧪 Neurotransmitters
+Explore neurotransmitter release and receptor interactions.
 
-🧠 Receptor Interaction
-Explore neurotransmitter binding to receptors on the postsynaptic membrane.
+🧠 Synaptic Structure
+Explore the presynaptic terminal, synaptic cleft, and postsynaptic membrane.
 
-🔬 Synaptic Visualization
-Explore the presynaptic terminal, synaptic cleft, and postsynaptic membrane interactively.
+🔬 Interactive Visualization
+Investigate synaptic communication through a dynamic interface.
 
-🎮 Interactive Controls
-Control and observe the progression of synaptic transmission.
-
-↻ Reset Functionality
-Restart the simulation to explore the process again.
+📱 Responsive Design
+Optimized for desktop, tablet, and mobile devices.
 
 ---
 
