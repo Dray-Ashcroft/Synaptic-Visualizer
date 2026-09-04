@@ -16,13 +16,13 @@ Interactive Chemical Synapse Simulator
 Visualize signal transmission across a chemical synapse.
 
 🧪 Neurotransmitters
-Explore neurotransmitter release and receptor interaction.
+Explore neurotransmitter release and receptor interactions.
+
+🧠 Synaptic Structure
+Explore the presynaptic terminal, synaptic cleft, and postsynaptic membrane.
 
 🔬 Interactive Visualization
-Explore synaptic structure and neuronal communication through a dynamic interface.
-
-📚 Educational Focus
-Designed around core NCERT Biology concepts.
+Investigate synaptic communication through a dynamic interface.
 
 📱 Responsive Design
 Optimized for desktop, tablet, and mobile devices.
