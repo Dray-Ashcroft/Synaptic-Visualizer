@@ -2,9 +2,9 @@
   <img src="assets/Banner.png" alt="Synaptic Visualizer Banner" width="100%">
 </p>🧠 Synaptic Visualizer
 
-Interactive Neuronal Synapse Simulator
+Interactive Chemical Synapse Simulator
 
-«An educational simulation exploring chemical synaptic transmission, neurotransmitter release, receptor interactions, and neuronal communication.»
+«An interactive educational simulation visualizing chemical synaptic transmission, from action potential arrival and neurotransmitter release to postsynaptic receptor activation.»
 
 🧠 Neuroscience · ⚡ Synaptic Transmission · 🧪 Neurotransmitters
 
@@ -12,29 +12,20 @@ Interactive Neuronal Synapse Simulator
 
 ✦ Features
 
-⚡ Synaptic Transmission
-Visualize signal transmission across a chemical synapse.
+⚡ Signal Transmission
+Visualize the sequence of events occurring during chemical synaptic transmission.
 
 🧪 Neurotransmitter Release
-Explore neurotransmitter release and interaction with postsynaptic receptors.
+Explore calcium-dependent vesicle fusion and neurotransmitter release into the synaptic cleft.
 
-🔬 Interactive Visualization
-Investigate synaptic structure and neuronal communication through a dynamic interface.
+🔬 Receptor Interaction
+Observe neurotransmitter binding to receptors on the postsynaptic membrane and the resulting response.
 
-📚 NCERT Biology
-Designed around core concepts of neuronal communication and synaptic transmission.
+🧠 Synaptic Visualization
+Explore the structural and functional organization of a chemical synapse through an interactive interface.
 
 📱 Responsive Design
 Optimized for desktop, tablet, and mobile devices.
-
----
-
-🌱 Learning Objectives
-
-- Understand synaptic structure and function.
-- Visualize neuronal signal transmission.
-- Explore neurotransmitter–receptor interactions.
-- Understand the role of the synaptic cleft in neural communication.
 
 ---
 
