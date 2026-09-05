@@ -4,12 +4,11 @@
 
 Interactive Chemical Synapse Simulator
 
-«Synaptic Visualizer is an interactive exploration of neurotransmitter release and receptor activation at a chemical synapse.
+<Synaptic Visualizer is an interactive exploration of neurotransmitter release and receptor activation at a chemical synapse.
 
-🧠 Neuroscience · ⚡ Synaptic Transmission · 🧪 Neurotransmitters»
+🧠 Neuroscience · ⚡ Synaptic Transmission · 🧪 Neurotransmitters>
 
-🔬 "Explore the Simulation" (YOUR-LINK-HERE)
-
+🔬 [Explore the Simulation](r-gl.dray-r-gl.dray-ashcroft.workers.dev/)
 ---
 
 ✦ Features
