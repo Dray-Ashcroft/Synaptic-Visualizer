@@ -1,42 +1,44 @@
 <p align="center">
-  <img src="assets/Banner.png" alt="Synaptic Visualizer Banner" width="100%">
+  <img src="assets/Banner.png" alt="Synaptic Visualizer — Interactive Chemical Synapse Simulator" width="100%">
 </p>
 
 # 🧠 Synaptic Visualizer
 
 ### *Interactive Chemical Synapse Simulator*
 
-> An interactive visualization for exploring chemical synaptic transmission, neurotransmitter release, receptor activation, and postsynaptic response.
+> **Synaptic Visualizer** is an interactive visualization exploring **chemical synaptic transmission**, neurotransmitter release, and postsynaptic receptor activation.
+>
+> 🧠 **Neuroscience** · ⚡ **Synaptic Transmission** · 🧪 **Neurotransmitters**
 
-**🧠 Neuroscience · ⚡ Synaptic Transmission · 🧪 Neurotransmitters**
+**🔬 [Explore the Simulation](https://synaptic-visualizer.vercel.app/)**
 
 ---
 
 ## ✦ Features
 
-**⚡ Signal Transmission**  
-Follow the signal across the synapse.
+**⚡ Synaptic Transmission**  
+Visualize signal transmission across a chemical synapse.
 
 **🧪 Neurotransmitter Release**  
-Observe vesicle release into the cleft.
+Observe neurotransmitter release into the synaptic cleft.
 
 **🧠 Receptor Interaction**  
-Explore postsynaptic receptor activation.
+Explore neurotransmitter binding to receptors on the postsynaptic membrane.
 
 **🔬 Synaptic Structure**  
-Explore the key synaptic regions.
+Explore the presynaptic terminal, synaptic cleft, and postsynaptic membrane.
 
 **🎮 Interactive Controls**  
-Control the transmission sequence.
+Control and observe the progression of synaptic transmission.
 
 **↻ Reset Functionality**  
-Restart the simulation anytime.
+Restart the simulation and explore the process again.
 
 ---
 
 ## 🧬 Core Concepts
 
-**Action Potential · Neurotransmitter Release · Synaptic Cleft · Receptors · Postsynaptic Response**
+**Action Potential · Synaptic Transmission · Neurotransmitter Release · Synaptic Cleft · Receptors · Postsynaptic Response**
 
 ---
 
@@ -44,11 +46,11 @@ Restart the simulation anytime.
 
 **React · TypeScript · Vite**
 
-**Source:** GitHub & Codeberg  
-**Hosting:** Cloudflare Pages
+**Repository:** GitHub & Codeberg  
+**Hosting:** Cloudflare
 
 ---
 
 ## 📜 License
 
-**GNU General Public License v3.0 (GPL-3.0)**
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
