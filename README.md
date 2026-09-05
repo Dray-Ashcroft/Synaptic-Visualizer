@@ -1,111 +1,54 @@
 <p align="center">
   <img src="assets/Banner.png" alt="Synaptic Visualizer — Interactive Chemical Synapse Simulator" width="100%">
-</p>
+</p>🧠 Synaptic Visualizer
 
-# 🧠 Synaptic Visualizer
+Interactive Chemical Synapse Simulator
 
-### *Interactive Chemical Synapse Simulator*
+«Synaptic Visualizer is an interactive exploration of neurotransmitter release and receptor activation at a chemical synapse.
 
-> **Synaptic Visualizer** is an interactive visualization exploring **chemical synaptic transmission**, neurotransmitter release, and postsynaptic receptor activation.
->
-> 🧠 **Neuroscience** · ⚡ **Synaptic Transmission** · 🧪 **Neurotransmitters**
+🧠 Neuroscience · ⚡ Synaptic Transmission · 🧪 Neurotransmitters»
 
-**🔬 [Explore the Simulation](<p align="center">
-  <img src="assets/Banner.png" alt="Synaptic Visualizer — Interactive Chemical Synapse Simulator" width="100%">
-</p>
-
-# 🧠 Synaptic Visualizer
-
-### *Interactive Chemical Synapse Simulator*
-
-> **Synaptic Visualizer** is an interactive visualization exploring **chemical synaptic transmission**, neurotransmitter release, and postsynaptic receptor activation.
->
-> 🧠 **Neuroscience** · ⚡ **Synaptic Transmission** · 🧪 **Neurotransmitters**
-
-**🔬 [Explore the Simulation](synaptic-visualizer.vercel.app)**
+🔬 "Explore the Simulation" (YOUR-LINK-HERE)
 
 ---
 
-## ✦ Features
+✦ Features
 
-**⚡ Synaptic Transmission**  
-Visualize signal transmission across a chemical synapse.
+⚡ Signal Transmission
+Follow the signal from the presynaptic terminal to the postsynaptic membrane.
 
-**🧪 Neurotransmitter Release**  
-Observe neurotransmitter release into the synaptic cleft.
+🧪 Neurotransmitter Release
+Observe neurotransmitters released into the synaptic cleft.
 
-**🧠 Receptor Interaction**  
-Explore neurotransmitter binding to receptors on the postsynaptic membrane.
+🧠 Receptor Interaction
+Explore neurotransmitter binding and postsynaptic receptor activation.
 
-**🔬 Synaptic Structure**  
+🔬 Synaptic Structure
 Explore the presynaptic terminal, synaptic cleft, and postsynaptic membrane.
 
-**🎮 Interactive Controls**  
-Control and observe the progression of synaptic transmission.
+🎮 Interactive Controls
+Control and observe each stage of the process.
 
-**↻ Reset Functionality**  
-Restart the simulation and explore the process again.
-
----
-
-## 🧬 Core Concepts
-
-**Action Potential · Synaptic Transmission · Neurotransmitter Release · Synaptic Cleft · Receptors · Postsynaptic Response**
+↻ Reset Functionality
+Restart the simulation and explore the mechanism again.
 
 ---
 
-## ⚙️ Technology
+🧬 Core Concepts
 
-**React · TypeScript · Vite**
-
-**Repository:** GitHub & Codeberg  
-**Hosting:** Cloudflare
+Action Potential · Neurotransmitter Release · Synaptic Cleft · Receptors · Postsynaptic Response
 
 ---
 
-## 📜 License
+⚙️ Technology
 
-Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.)**
+React · TypeScript · Vite
 
----
-
-## ✦ Features
-
-**⚡ Synaptic Transmission**  
-Visualize signal transmission across a chemical synapse.
-
-**🧪 Neurotransmitter Release**  
-Observe neurotransmitter release into the synaptic cleft.
-
-**🧠 Receptor Interaction**  
-Explore neurotransmitter binding to receptors on the postsynaptic membrane.
-
-**🔬 Synaptic Structure**  
-Explore the presynaptic terminal, synaptic cleft, and postsynaptic membrane.
-
-**🎮 Interactive Controls**  
-Control and observe the progression of synaptic transmission.
-
-**↻ Reset Functionality**  
-Restart the simulation and explore the process again.
+Repository: GitHub & Codeberg
+Hosting: Cloudflare Pages
 
 ---
 
-## 🧬 Core Concepts
+📜 License
 
-**Action Potential · Synaptic Transmission · Neurotransmitter Release · Synaptic Cleft · Receptors · Postsynaptic Response**
-
----
-
-## ⚙️ Technology
-
-**React · TypeScript · Vite**
-
-**Repository:** GitHub & Codeberg  
-**Hosting:** Cloudflare
-
----
-
-## 📜 License
-
-Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
+Distributed under the GNU General Public License v3.0 (GPL-3.0).
