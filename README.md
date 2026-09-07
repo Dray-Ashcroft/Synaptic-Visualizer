@@ -8,7 +8,7 @@
 
 > **Synaptic Visualizer** is an interactive visualization exploring **chemical synaptic transmission**, neurotransmitter release, and postsynaptic receptor activation.
 >
-> 🧠 **Neuroscience** · ⚡ **Synaptic Transmission** · 🧪 **Neurotransmitters**
+🧠 **Neuroscience** · ⚡ **Synaptic Transmission** · 🧪 **Neurotransmitters**
 
 **🔬 [Explore the Simulation](https://synaptic-visualizer.vercel.app/)**
 
