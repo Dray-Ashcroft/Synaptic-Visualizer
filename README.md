@@ -10,7 +10,7 @@
 >
 🧠 **Neuroscience** · ⚡ **Synaptic Transmission** · 🧪 **Neurotransmitters**
 
-**🔬 [Explore the Simulation](https://synaptic-visualizer.dray-ashcroft.workers.dev/)**
+**🔬 [Explore the Simulation](https://synaptic-visualizer.stark-kodex.workers.dev)**
 
 ---
 
